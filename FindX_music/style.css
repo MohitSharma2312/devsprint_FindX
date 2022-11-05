@@ -16,7 +16,8 @@ nav ul{
     list-style-type: none;
     height : 69px;
     background-color: black;
+    color: white;
 }
 .brand img{
-    width: 12px;
+    width: 69px;
 }
